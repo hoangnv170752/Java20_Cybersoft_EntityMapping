@@ -1,4 +1,4 @@
-package com.cybersoft.osahaneat.entity;
+package com.java20cybersoft.entitymaping.entity;
 
 import javax.persistence.*;
 
