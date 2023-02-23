@@ -1,4 +1,4 @@
-package com.cybersoft.osahaneat.entity.keys;
+package com.java20cybersoft.entitymaping.entity.keys;
 
 import javax.persistence.Column;
 import javax.persistence.Embeddable;
